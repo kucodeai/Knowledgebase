@@ -8,4 +8,16 @@ baseurl: ""
 url: "https://docs.kucodeai.com"
 github_username: kucodeai
 
+#timezone : Asis/Shanghai
+timezone: Asia/Shanghai
+
+#encoding : utf-8
+encoding: utf-8
+
+#setting permalink value
+permalink: /:year/:month/:day/:title.html
+
+paginate: 5
+paginate_path: "docs/page:num/"
+
 #Build settings
