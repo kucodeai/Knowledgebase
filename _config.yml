@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+#Site settings
+title: 酷编程文档知识库
+email: info@kucodeai.com
+description: 酷编程人工智能教育
+baseurl: ""
+url: "https://docs.kucodeai.com"
+github_username: kucodeai
+
+#Build settings
