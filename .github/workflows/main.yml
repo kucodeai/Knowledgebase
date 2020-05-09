@@ -24,8 +24,8 @@ jobs:
         uses: rreichel3/vuepress-github-actions-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.knowledgebase }}
-          BUILD_DIR: docs/.vuepress/dist/ # The folder, the action should deploy.
-          BUILD_SCRIPT: yarn docs:build # The build script the action should run prior to deploying.
+          BUILD_DIR: docs/.vuepress/dist # The folder, the action should deploy.
+          BUILD_SCRIPT: yarn install && yarn docs:build # The build script the action should run prior to deploying.
           PAGES_CNAME: docs.kucodeai.com
 
       # Runs a single command using the runners shell
