@@ -31,7 +31,7 @@ module.exports = {
           ]
         },
         {
-          title:'计算机视觉-OpenCV',
+          title:'计算机视觉',
           collapsable:false,
           children:[
             '/opencv-install'
