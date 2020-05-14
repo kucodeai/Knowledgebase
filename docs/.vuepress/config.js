@@ -34,11 +34,7 @@ module.exports = {
           title:'计算机视觉',
           collapsable:true,
           children:[
-            '/opencv-install',
-            '/opencv-install/macOS',
-            '/opencv-install/Ubuntu-18',
-            '/opencv-install/Windows',
-            '/opencv-install/RunSampleCode'
+            '/opencv-install'
           ]
         }
       ]

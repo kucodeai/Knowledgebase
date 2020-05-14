@@ -7,3 +7,19 @@
 :::
 
 ## 概述   
+### 安装程序介绍
+
+test
+
+## Windows
+
+test  
+
+## macOS  
+test  
+
+## Ubuntu 18/16  
+test  
+
+## 示例代码  
+test    
