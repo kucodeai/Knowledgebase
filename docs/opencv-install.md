@@ -17,7 +17,7 @@
 本指南将帮助您使用 Anaconda 安装 OpenCV for Python。  
 
 **Step 1: 安装Anaconda的Python 3版**  
-下载并安装Anaconda Python 3版本，网址为https://www.anaconda.com/distribution/   
+下载并安装Anaconda Python 3版本，网址为[Anaconda安装] (https://www.anaconda.com/distribution/)  
 
 ![Anaconda下载安装程序](https://image-1256683855.cos.ap-nanjing.myqcloud.com/knowledgebase/anaconda-python-3.png)
 
