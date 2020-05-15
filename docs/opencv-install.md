@@ -25,8 +25,8 @@
 
 在安装Anaconda时，请确保检查这两个选项：  
 
-* Add Anaconda to my PATH environment variable  
-* Register Anaconda as my default Python  
+* 添加 Anaconda 到系统的环境变量中,方法：Windows 10->Win+Q->输入"env"  
+* 注册 Anaconda 作为默认的Python工具   
 
 **Step 2: 创建虚拟环境**  
 我们将使用虚拟环境来安装Python库。一般来说，将你的项目环境和全局环境分开是一个很好的做法。  
