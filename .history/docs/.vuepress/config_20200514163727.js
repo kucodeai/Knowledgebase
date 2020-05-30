@@ -1,6 +1,6 @@
 module.exports = {
   title: '知识库',
-  base: '/docs/',
+  base: '/',
   lastUpdated: 'Last Updated',
   themeConfig: {
     logo: "/logo.png",
