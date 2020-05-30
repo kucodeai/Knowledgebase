@@ -6,4 +6,4 @@ This user guide will help you to set up your own forum using KucodeAI and teach 
 
 ## 目标
 
-为学习者提供有帮助的资源和知识沉淀积累
+为学习者提供有帮助的资源和知识沉淀积累!
